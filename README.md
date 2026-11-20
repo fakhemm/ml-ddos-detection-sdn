@@ -1,5 +1,7 @@
 # ML-based DDoS Attack Detection in SDN
 
+**[Watch: 3-minute plain-language walkthrough of this project](https://1drv.ms/v/c/147dc544e8b3aa12/IQBb0CtF242bSa74OAbXcNahAV-VqlY8Fz9aPr7dJoANZb0?e=8JGwZ5)**
+
 End-to-end ML pipeline in Python (scikit-learn) benchmarking 5 classifiers for DDoS attack detection in Software-Defined Networking (SDN), evaluated with 95% confidence intervals.
 Master's thesis, M.Sc. Artificial Intelligence and Computer Science, University of Birmingham (2025). Supervisor: Professor Ata Kaban.
 
